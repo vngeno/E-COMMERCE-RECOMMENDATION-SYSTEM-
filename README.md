@@ -32,6 +32,8 @@ This project was done as a partial fullfilment of a Data Science Course.
 
 4..Sci-Kit Library
 
+5.Surprise Library
+
 5..Plotly
 
 6..Tensorflow , Keras
@@ -47,6 +49,9 @@ Trello for project tracking
 Git and Github as version control for collaboration
 
 Trello, sublime: for model deployment
+
+# Setup
+The easiest way to run this code is to upload and run it in google colab. Alternatively , if you would like to run it on your local computer you should install jupyter notebook and import pandas and numpy library to be able to run the code.
 
 # Contributors
 
