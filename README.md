@@ -50,6 +50,8 @@ Git and Github as version control for collaboration
 
 Trello, sublime: for model deployment
 
+Google collab for analysis
+
 # Setup
 The easiest way to run this code is to upload and run it in google colab. Alternatively , if you would like to run it on your local computer you should install jupyter notebook and import pandas and numpy library to be able to run the code.
 
