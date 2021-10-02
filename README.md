@@ -2,7 +2,7 @@
 
 # Introduction
 
-Out main objective for this study was to successfuly build a recommender system by implementing recommender system models (content based filtering, collaborative filtering and hybrid models) on an Amazon user reviews and product ratings dataset that can effectively reccommend items to different users based on the item simmilarity and user behaviour(the ratings and reviews given on different products).
+Out main objective for this study was to successfuly build a recommender system by implementing recommender system models (content based filtering, collaborative filtering and hybrid models) on an Amazon consumer reviews and product ratings dataset that can effectively reccommend items to different users based on the item simmilarity and user behaviour(the ratings and reviews given on different products).
 
 # Motivation
 
